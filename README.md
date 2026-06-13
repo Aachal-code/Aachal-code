@@ -26,35 +26,17 @@
   * Artificial Intelligence
 
 ---
+## 💻 Tech Stack
 
-## 💻 Technical Skills
+**Languages:** C++ • Python • JavaScript • SQL
 
-### Programming Languages  
-* C++
-* Python
-* JavaScript
-* SQL
+**Web:** HTML • CSS • Node.js • Express.js
 
-### Web Development
-* HTML
-* CSS
-* Node.js
-* Express.js
-### Databases
-* MySQL
-* PostgreSQL
-### Tools & Technologies
-* Git
-* GitHub
-* VS Code
-### AI & Data Science
+**Databases:** MySQL • PostgreSQL
 
-* NumPy
-* Pandas
-* Scikit-Learn
-* PyTorch
-* Graph Neural Networks (GNN)
+**Tools:** Git • GitHub • VS Code
 
+**AI & Data Science:** NumPy • Pandas • Scikit-Learn • PyTorch • Graph Neural Networks (GNN)
 ---
 <!--
 **Aachal-code/Aachal-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
