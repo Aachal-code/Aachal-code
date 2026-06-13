@@ -29,31 +29,24 @@
 
 ## 💻 Technical Skills
 
-### Programming Languages
-
+### Programming Languages  
 * C++
 * Python
 * JavaScript
 * SQL
 
 ### Web Development
-
 * HTML
 * CSS
 * Node.js
 * Express.js
-
 ### Databases
-
 * MySQL
 * PostgreSQL
-
 ### Tools & Technologies
-
 * Git
 * GitHub
 * VS Code
-
 ### AI & Data Science
 
 * NumPy
