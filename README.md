@@ -15,9 +15,8 @@
 
 **[Kathmandu University]**
 
-* Expected Graduation: 20XX
+* Expected Graduation: 2027
 * Relevant Coursework:
-
   * Data Structures and Algorithms
   * Database Systems
   * Computer Networks
